@@ -1,2 +1,2 @@
 set __COMPAT_LAYER=RunAsInvoker
-start "name"
+start File.exe
