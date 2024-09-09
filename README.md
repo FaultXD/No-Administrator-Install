@@ -35,7 +35,7 @@ start SteamSetup.exe
 --
  Subscribe to the FaultXD YouTube here --> https://www.youtube.com/@faultXDWasTaken
  Donate Here --> https://streamelements.com/faultxdwastaken
- PayPal Me ---> truekenensz@gmail.com
+ PayPal Me ---> truekensz@gmail.com
 
 
 ░██████╗██╗░░░██╗██████╗░░██████╗░█████╗░██████╗░██╗██████╗░███████╗
